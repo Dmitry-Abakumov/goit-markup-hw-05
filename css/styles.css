@@ -614,6 +614,7 @@ background-color: #2F303A;
     font-size: 18px;
     line-height: 1.56;
     letter-spacing: 0.03em;
+    color: #FFFFFF;
 
     transition: transform var(--transition-dur-and-func);
 }
