@@ -118,7 +118,7 @@ img {
     color: var(--accent-color);
 }
 
-.header-contact {
+.header-contact-link {
     display: flex;
     align-items: center;
 
@@ -130,8 +130,8 @@ img {
     transition: color var(--transition-dur-and-func);
 }
 
-.header-contact:hover,
-.header-contact:focus {
+.header-contact-link:hover,
+.header-contact-link:focus {
     color: var(--accent-color);
 }
 
@@ -485,7 +485,7 @@ img {
 background-color: #2F303A;
 }
 
-.footer-contact {
+.footer-contact-link {
     color: rgba(255, 255, 255, 0.6);
 }
 
