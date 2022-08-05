@@ -118,7 +118,7 @@ img {
     color: var(--accent-color);
 }
 
-.contact {
+.header-contact {
     display: flex;
     align-items: center;
 
@@ -130,8 +130,8 @@ img {
     transition: color var(--transition-dur-and-func);
 }
 
-.contact:hover,
-.contact:focus {
+.header-contact:hover,
+.header-contact:focus {
     color: var(--accent-color);
 }
 
@@ -485,11 +485,7 @@ img {
 background-color: #2F303A;
 }
 
-.conatact-mail-address {
-    color: rgba(255, 255, 255, 0.6);
-}
-
-.contact-phone-number {
+.footer-contact {
     color: rgba(255, 255, 255, 0.6);
 }
 
